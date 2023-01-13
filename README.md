@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Miladiouss (Milad Pourrahmani, PhD). I am data scientist by trade, a physicist by training.
+- 🎓 My expertise: Python, computer vision, data visualization, data modeling, deep learning 
+- 🫀 My passions: science, data science, deep learning, computer vision, language models, linguistics, astronomy, quantitative finance, AI/AGI
+- 💞️ I’m looking to collaborate on fun project related to 🔭 science, ℹ️ science education, ㊙️ linguistics, 🎵 music, or ♟️ anti-chess.
+- 📫 Feel free to email me: my github username @gmail
+- 🌐 [www.Miladiouss.com](https://miladiouss.com/)
